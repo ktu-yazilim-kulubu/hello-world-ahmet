@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 �yelik
 =======
 >>>>>>> parent of f6aed44... .
+=======
+Hello World ?
+>>>>>>> parent of c31071a... değiştirme
