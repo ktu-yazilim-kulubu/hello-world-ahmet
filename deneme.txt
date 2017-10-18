@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 üyelik
+=======
+>>>>>>> parent of f6aed44... .
