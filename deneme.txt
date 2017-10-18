@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 ahmet
+=======
+>>>>>>> parent of 373b552... deneme
